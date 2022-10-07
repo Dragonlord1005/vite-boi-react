@@ -18,7 +18,19 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"antfu.file-nesting",
+				"trunk.io",
+				"dracula-theme.theme-dracula",
+				"EditorConfig.EditorConfig",
+				"miguelsolorio.fluent-icons",
+				"vscode-icons-team.vscode-icons",
+				"quicktype.quicktype",
+				"aaron-bond.better-comments",
+				"GitHub.copilot",
+				"WakaTime.vscode-wakatime",
+				"Prisma.prisma",
+				"antfu.unocss"
 			]
 		}
 	},
