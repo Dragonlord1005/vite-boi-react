@@ -29,8 +29,7 @@
 				"aaron-bond.better-comments",
 				"GitHub.copilot",
 				"WakaTime.vscode-wakatime",
-				"Prisma.prisma",
-				"antfu.unocss"
+				"Prisma.prisma"
 			]
 		}
 	},
